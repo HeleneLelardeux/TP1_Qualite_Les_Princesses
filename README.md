@@ -1,2 +1,4 @@
 # TP1_Qualite_Les_Princesses
-Les queens 
+Hélène lelardeux : Alice
+Pualine Blouin : Bob
+2B
